@@ -1,6 +1,6 @@
 First of all, hello to all of you, I have done enough research and reverse engineering about the launcher you are using, although not very deep.
 at least I think i found a few things necessary for it not to be considered "infected" Let's start with installing the Launcher first. 
-If the launcher is installed, it opens one or more files in temp and downloads the attached
+When the Installer is opened, it opens one or more folders in temp and downloads the attached
 
 ![](https://user-images.githubusercontent.com/60201017/214714356-7445b91b-64af-44a6-a019-42402439f345.png) 
 
@@ -22,7 +22,7 @@ As for the alleged information-gathering process, when you accept Eula, you also
   
 ![](https://user-images.githubusercontent.com/60201017/214714267-e448b691-0b43-4986-9388-9a4801b9d2bd.png)
 
-   let's talk about downloading modified java, it's still downloading java from their servers but it's not so important
+   let's talk about downloading modified java, firstly it only downloads java if java does not exist in the OS, but it's still downloading java from their servers but it's not so important
    
    ![](https://user-images.githubusercontent.com/60201017/214714325-8d6dff7e-6cd0-46da-8362-79263e2ca4bd.png)
 
